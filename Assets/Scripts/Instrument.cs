@@ -5,13 +5,29 @@ using UnityEngine.UI;
 
 public abstract class Instrument : MonoBehaviour
 {
-    [SerializeField] protected AudioSource audioSource;
+    protected AudioSource audioSource;
     [SerializeField] protected AudioClip sample;
     [SerializeField] protected Text info;
     protected string instrumentName;
+
+    protected abstract void Play();
+    protected abstract void DisplayInfo();
+
+    protected void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+        DisplayInfo();
+    }
     protected void OnMouseDown()
     {
-        audioSource.PlayOneShot(sample, 1.0f);
+        Play();
     }
-    protected abstract void DisplayInfo();
+    protected void OnMouseEnter()
+    {
+        info.gameObject.SetActive(true);
+    }
+    protected void OnMouseExit()
+    {
+        info.gameObject.SetActive(false);
+    }
 }

@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Drum : Instrument
+public abstract class Drum : Instrument //Inheritance
 {
-   public string DrumName
+   public string Name //Encapsulation
     {
         get { return instrumentName; }
         set
