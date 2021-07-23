@@ -1,0 +1,408 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 7  (6.1.0) 64bit' Language: 'uk' Physical Memory: 8175 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\UnityEditor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/Progs/Unity/Programming_theory_in_action
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49775
+Successfully changed project path to: E:/Progs/Unity/Programming_theory_in_action
+E:/Progs/Unity/Programming_theory_in_action
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Progs/Unity/Programming_theory_in_action/Assets
+GfxDevice: creating device client; threaded=0
+d3d11: CreateDXGIFactory2(...) not found, fallbacking to CreateDXGIFactory1(...).
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
+    Vendor:   
+    VRAM:     969 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/UnityEditor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002598 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.055 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 2.460687 ms (FindLiveObjects: 0.170581 ms CreateObjectMapping: 0.063703 ms MarkObjects: 2.117047 ms  DeleteObjects: 0.106525 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GuitarStringMaterial.cs
+  artifactKey: Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GuitarStringMaterial.cs using Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82567bdd7a8ba61a38b286a134a9fac0') in 2.121320 seconds 
+  Import took 2.151213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.090159 seconds.
+  path: Assets/Scripts/GuitarStringMaterial.cs
+  artifactKey: Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GuitarStringMaterial.cs using Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ac984733d2b2dd798cfd7e6fe41fe3') in 0.005151 seconds 
+  Import took 0.018318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.949161 seconds.
+  path: Assets/Scripts/AcousticGuitarStringMaterial.cs
+  artifactKey: Guid(ef811361371d39b48b361ab7bbeef5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarStringMaterial.cs using Guid(ef811361371d39b48b361ab7bbeef5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c8c4a9b8578492920239ca4cd556c5') in 0.006158 seconds 
+  Import took 0.009845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.384117 seconds.
+  path: Assets/Scripts/ElectricGuitarStringMaterial.cs
+  artifactKey: Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarStringMaterial.cs using Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf012b96973ba8d63bc769461904126') in 0.005038 seconds 
+  Import took 1.109252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 611.573423 seconds.
+  path: Assets/Scripts/ElectricGuitarStringMaterial.cs
+  artifactKey: Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarStringMaterial.cs using Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb7ab4c02c46744c94a47ba0a4becc1') in 0.019402 seconds 
+  Import took 0.023409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.409330 seconds.
+  path: Assets/Scripts/ElectricGuitarString.cs
+  artifactKey: Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarString.cs using Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c858bb853516a5a14ff1a2423f1c7d9') in 0.008044 seconds 
+  Import took 0.011606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.433784 seconds.
+  path: Assets/Scripts/ElectricGuitarString.cs
+  artifactKey: Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarString.cs using Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6305658b267bcc61c83f3ec5a66505') in 0.039104 seconds 
+  Import took 0.043100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.709778 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04440c60da0fe469a693effd11b5e97') in 0.019325 seconds 
+  Import took 0.024359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003891 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04440c60da0fe469a693effd11b5e97') in 0.005016 seconds 
+  Import took 0.010484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.137257 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ce899f71b56e60b6f8fd1fab619260') in 0.006223 seconds 
+  Import took 0.010769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013835 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ce899f71b56e60b6f8fd1fab619260') in 0.008093 seconds 
+  Import took 0.016509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.093481 seconds.
+  path: Assets/Scripts/ElectricGuitar.cs
+  artifactKey: Guid(c265358557c7e6d4895121a0003ccb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitar.cs using Guid(c265358557c7e6d4895121a0003ccb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ca2df592e710cd0ba9a8c90c2ce5e7') in 0.004657 seconds 
+  Import took 0.007830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1054.931066 seconds.
+  path: Assets/Scripts/ElectricGuitar.cs
+  artifactKey: Guid(c265358557c7e6d4895121a0003ccb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitar.cs using Guid(c265358557c7e6d4895121a0003ccb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1943ab883361cfb0ab8e5f821f130b92') in 0.005151 seconds 
+  Import took 0.008915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.324151 seconds.
+  path: Assets/Scripts/AcousticGuitar.cs
+  artifactKey: Guid(1398eef4dda79604ea4cf760093e3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitar.cs using Guid(1398eef4dda79604ea4cf760093e3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648dae6257cce4b6d86fadf241af56c7') in 0.007818 seconds 
+  Import took 0.011344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.198613 seconds.
+  path: Assets/Scripts/AcousticGuitar.cs
+  artifactKey: Guid(1398eef4dda79604ea4cf760093e3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitar.cs using Guid(1398eef4dda79604ea4cf760093e3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc50e2eae4748c98cecc840e356b7dd4') in 0.005313 seconds 
+  Import took 0.008399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.867739 seconds.
+  path: Assets/Scripts/BassElectricGuitar.cs
+  artifactKey: Guid(4171ac6f9fbf8b548803ce6a12c29ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BassElectricGuitar.cs using Guid(4171ac6f9fbf8b548803ce6a12c29ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe81653484ce171dd8b238758d327671') in 0.007090 seconds 
+  Import took 0.011368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1114.819126 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7edcadc6818a1948e89851e5f5a213') in 0.004260 seconds 
+  Import took 0.007842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005616 seconds.
+  path: Assets/Scripts/AcousticGuitarString.cs
+  artifactKey: Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarString.cs using Guid(7f293feb6c7c8af4898c19eee13b24fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7edcadc6818a1948e89851e5f5a213') in 0.003967 seconds 
+  Import took 0.007656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.721163 seconds.
+  path: Assets/Scripts/AcousticGuitarStringMaterial.cs
+  artifactKey: Guid(ef811361371d39b48b361ab7bbeef5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcousticGuitarStringMaterial.cs using Guid(ef811361371d39b48b361ab7bbeef5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ac468c18c5fbee826c5e7bfe13962c') in 0.004656 seconds 
+  Import took 0.007816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.084621 seconds.
+  path: Assets/Scripts/BassElectricGuitar.cs
+  artifactKey: Guid(4171ac6f9fbf8b548803ce6a12c29ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BassElectricGuitar.cs using Guid(4171ac6f9fbf8b548803ce6a12c29ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6808fe4af71bbeda2d8e26796c218134') in 0.010661 seconds 
+  Import took 0.016722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.070186 seconds.
+  path: Assets/Scripts/ElectricGuitarString.cs
+  artifactKey: Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarString.cs using Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ab7140d2533b3d08294351c382e9d4') in 0.004736 seconds 
+  Import took 0.007789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001280 seconds.
+  path: Assets/Scripts/ElectricGuitarString.cs
+  artifactKey: Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarString.cs using Guid(2a00d8e610979e84380721466031ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ab7140d2533b3d08294351c382e9d4') in 0.051410 seconds 
+  Import took 0.054640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.005371 seconds.
+  path: Assets/Scripts/ElectricGuitarStringMaterial.cs
+  artifactKey: Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ElectricGuitarStringMaterial.cs using Guid(ab9066dbd36bb2649b4fea47a1720075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafa7ea2f99c7995306188971d6ca094') in 0.005272 seconds 
+  Import took 0.008788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.638930 seconds.
+  path: Assets/Scripts/GuitarString.cs
+  artifactKey: Guid(e1509c511a94ce042b33ec41fded4627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GuitarString.cs using Guid(e1509c511a94ce042b33ec41fded4627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9119109c1859438a386ae8c79617ed') in 0.297043 seconds 
+  Import took 0.363943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.411305 seconds.
+  path: Assets/Scripts/GuitarStringMaterial.cs
+  artifactKey: Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GuitarStringMaterial.cs using Guid(7f435f433934bb147a94c0870b7629f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f4cf0a7b8db8ecf8421fc1c9c70bc8') in 0.014718 seconds 
+  Import took 0.017742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.085275 seconds.
+  path: Assets/Scripts/MusicInput.cs
+  artifactKey: Guid(09c00db4e21d9ee4d9ae3e7e50cf4c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MusicInput.cs using Guid(09c00db4e21d9ee4d9ae3e7e50cf4c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085381d6104f055dec2f21ac1de94e6b') in 0.151946 seconds 
+  Import took 0.154909 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.478041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1383 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 18.868686 ms (FindLiveObjects: 0.178013 ms CreateObjectMapping: 0.101924 ms MarkObjects: 18.491071 ms  DeleteObjects: 0.095908 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 92.821898 seconds.
+  path: Assets/Scripts/Drum.cs
+  artifactKey: Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Drum.cs using Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5474b173a35b205728c3e9f28227d739') in 0.017705 seconds 
+  Import took 0.020754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008804 seconds.
+  path: Assets/Scripts/Drum.cs
+  artifactKey: Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Drum.cs using Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5474b173a35b205728c3e9f28227d739') in 0.003947 seconds 
+  Import took 0.007448 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 2.308508 ms (FindLiveObjects: 0.158548 ms CreateObjectMapping: 0.062641 ms MarkObjects: 2.017246 ms  DeleteObjects: 0.067949 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.363 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 2.432374 ms (FindLiveObjects: 0.160318 ms CreateObjectMapping: 0.063349 ms MarkObjects: 2.134742 ms  DeleteObjects: 0.071842 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 182.842734 seconds.
+  path: Assets/Scripts/Drum.cs
+  artifactKey: Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Drum.cs using Guid(5f144e18fbb98014fb632cbf258b6d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9ad4e7f8fced523f51fb995086aa92') in 0.007517 seconds 
+  Import took 0.010533 seconds .
+
